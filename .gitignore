@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+data/
+dist/
+weights/*.zip
+weights/*.pth
+weights/track12/
+submissions/*/assets/
